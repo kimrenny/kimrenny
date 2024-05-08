@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kimrenny
 - 👀 I’m interested in GameDev, software engineering, and AI.
-- 🌱 I’m currently working on personal frontend projects; learning JavaScript, C++, C#, .NET, AI.
-- 💞️ I’m looking to collaborate on Fullstack (js + python) development.
+- 🌱 I’m currently working on personal frontend projects; learning JavaScript, C#, .NET, AI.
+- 💞️ I’m looking to collaborate on Fullstack (js + .net) development.
 - 📫 How to reach me: rvdev (discord).
 
 <!---
