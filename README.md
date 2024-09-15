@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimrenny
 - 👀 I’m interested in GameDev, software engineering, and AI.
-- 🌱 I’m currently working on personal projects; learning ASP.NET Core MVC, Angular.
+- 🌱 I’m currently working on personal edtech project; learning ASP.NET, Angular.
 - 💞️ I’m looking to collaborate on Fullstack (angular + asp.net core web api) development.
 - 📫 How to reach me: rvdev (discord).
