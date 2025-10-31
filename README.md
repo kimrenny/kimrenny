@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm kimrenny 👋</h1>
-<h3 align="center">Fullstack Developer | C#, .NET, Angular, TypeScript</h3>
+<h3 align="center">Embedded Developer | Fullstack Developer | C#, .NET, Angular, TypeScript</h3>
 
 ---
 
@@ -38,6 +38,8 @@ I work with **Entity Framework, SQL**, manage state with **ngRx**, and **Docker*
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VBScript-0066CC?style=for-the-badge&logo=windows&logoColor=white"/>
+
 </p>
 
 ### 🛠️ Tools
