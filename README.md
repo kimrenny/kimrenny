@@ -16,6 +16,7 @@ I work with **Entity Framework, SQL**, manage state with **ngRx**, and **Docker*
 ### 🌐 Web Development
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,10 +37,10 @@ I work with **Entity Framework, SQL**, manage state with **ngRx**, and **Docker*
 
 ### 💻 Desktop Development
 <p>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/VBScript-0066CC?style=for-the-badge&logo=windows&logoColor=white"/>
-
 </p>
 
 ### 🛠️ Tools
@@ -58,11 +59,11 @@ I work with **Entity Framework, SQL**, manage state with **ngRx**, and **Docker*
 ---
 
 ## 🌱 Currently Learning
-- Angular (Standalone components, ngRx) — for web development  
-- Go + Flutter — for desktop applications  
+- Angular — for web development  
+- Electron + React — for desktop + web applications  
 
 ## 🔮 Plans
-- Electron + React — for desktop applications  
+- Machine Learning — for automated calculations
 
 ---
 
