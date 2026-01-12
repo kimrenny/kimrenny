@@ -52,8 +52,8 @@ I work with **Entity Framework, SQL**, manage state with **ngRx**, and **Docker*
 
 ## 📊 GitHub Stats
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kimrenny&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimrenny&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kimrenny&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kimrenny&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
