@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm kimrenny 👋</h1>
-<h3 align="center">Embedded Developer | Fullstack Developer | C#, .NET, Angular, TypeScript</h3>
+<h3 align="center"> Fullstack Software Engineer | C#, .NET, Angular, TypeScript</h3>
 
 ---
 
